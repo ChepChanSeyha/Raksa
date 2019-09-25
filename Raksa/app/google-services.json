@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "658577666801",
-    "firebase_url": "https://raksa-10b5f.firebaseio.com",
-    "project_id": "raksa-10b5f",
-    "storage_bucket": "raksa-10b5f.appspot.com"
+    "project_number": "118881066332",
+    "firebase_url": "https://raksa-76bec.firebaseio.com",
+    "project_id": "raksa-76bec",
+    "storage_bucket": "raksa-76bec.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:658577666801:android:3ec9e7d368411c3ac06f50",
+        "mobilesdk_app_id": "1:118881066332:android:f3177b7c23a5ccf7ac7599",
         "android_client_info": {
           "package_name": "com.example.raksa"
         }
       },
       "oauth_client": [
         {
-          "client_id": "658577666801-q8o286oqfq8ut1bc1uuaqm45qpq30c35.apps.googleusercontent.com",
+          "client_id": "118881066332-kka6ls2coc2vcck0vafqcjlu5va0gr6i.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.raksa",
@@ -23,20 +23,20 @@
           }
         },
         {
-          "client_id": "658577666801-s47oa53e5pekci2ouhj9rdek209oq53o.apps.googleusercontent.com",
+          "client_id": "118881066332-4538aih3brj2op55sbuv238n654q5b6i.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyATWe2eoFnfBtR1s7l7RGGK-an_5SD6uIw"
+          "current_key": "AIzaSyBoHu8PC77pkLoYeFmWgWIs-tLNfBnUa-E"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "658577666801-s47oa53e5pekci2ouhj9rdek209oq53o.apps.googleusercontent.com",
+              "client_id": "118881066332-4538aih3brj2op55sbuv238n654q5b6i.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

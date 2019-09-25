@@ -8,12 +8,12 @@ import android.os.Handler
 class SplashScreen : AppCompatActivity() {
 
     private var mDelayHandler: Handler? = null
-    private val SPLASH_DELAY: Long = 3000 //3 seconds
+    private val splashDelay: Long = 3000 //3 seconds
 
-    internal val mRunnable: Runnable = Runnable {
+    private val mRunnable: Runnable = Runnable {
         if (!isFinishing) {
 
-            val intent = Intent(applicationContext, MainActivity::class.java)
+            val intent = Intent(applicationContext, SignInScreen::class.java)
             startActivity(intent)
             finish()
         }
@@ -27,7 +27,7 @@ class SplashScreen : AppCompatActivity() {
         mDelayHandler = Handler()
 
         //Navigate with delay
-        mDelayHandler!!.postDelayed(mRunnable, SPLASH_DELAY)
+        mDelayHandler!!.postDelayed(mRunnable, splashDelay)
 
     }
 
